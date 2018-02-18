@@ -5,23 +5,40 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1518967689882"
+    timestamp="1518978966746"
     token="-4172936569010778927"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1728" />
+        duration="1591" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="193" />
     <task
         name="verifier"
-        duration="0" />
+        duration="2" />
+
+    <artifact
+        location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/outputs/apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -66,7 +83,24 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1518967689882"
-        verifier="COLD_SWAP_REQUESTED" />
+        ir-eligibility="COMPATIBLE"
+        timestamp="1518978966746"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/outputs/apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>
