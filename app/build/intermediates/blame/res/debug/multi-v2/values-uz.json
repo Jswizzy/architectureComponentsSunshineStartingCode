@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/Users/justinsmith/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
-                    "source": "/home/atx/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e90a0fbcb664d9d3a12cee74c0e08dd6/res/values-uz/values-uz.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,210,314,428,514,625,741,821,900,984,1093,1200,1301,1409,1514,1621,1782,1881",
-                        "endColumns": "104,103,113,85,110,115,79,78,83,108,106,100,107,104,106,160,98,83",
-                        "endOffsets": "205,309,423,509,620,736,816,895,979,1088,1195,1296,1404,1509,1616,1777,1876,1960"
-                    }
-                },
-                {
-                    "source": "/home/atx/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9fca46638e40bb2cafacdd4af6093b28/res/values-uz/values-uz.xml",
+                    "source": "/Users/justinsmith/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c456e9d43f40dc1d6d94c7df7eae01d1/res/values-uz/values-uz.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1965",
                         "endColumns": "100",
                         "endOffsets": "2061"
+                    }
+                },
+                {
+                    "source": "/Users/justinsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9e187db11c7fc3b0655adfc5959bf885/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,314,428,514,625,741,821,900,984,1093,1200,1301,1409,1514,1621,1782,1881",
+                        "endColumns": "104,103,113,85,110,115,79,78,83,108,106,100,107,104,106,160,98,83",
+                        "endOffsets": "205,309,423,509,620,736,816,895,979,1088,1195,1296,1404,1509,1616,1777,1876,1960"
                     }
                 }
             ]

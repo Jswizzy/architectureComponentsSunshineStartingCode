@@ -7,7 +7,11 @@
 package android.support.v7.recyclerview;
 
 public final class R {
+    private R() {}
+
     public static final class attr {
+        private attr() {}
+
         public static final int fastScrollEnabled = 0x7f020087;
         public static final int fastScrollHorizontalThumbDrawable = 0x7f020088;
         public static final int fastScrollHorizontalTrackDrawable = 0x7f020089;
@@ -28,15 +32,21 @@ public final class R {
         public static final int stackFromEnd = 0x7f020133;
     }
     public static final class bool {
+        private bool() {}
+
         public static final int abc_action_bar_embed_tabs = 0x7f030000;
     }
     public static final class color {
+        private color() {}
+
         public static final int notification_action_color_filter = 0x7f040042;
         public static final int notification_icon_bg_color = 0x7f040043;
         public static final int ripple_material_light = 0x7f04004f;
         public static final int secondary_text_default_material_light = 0x7f040052;
     }
     public static final class dimen {
+        private dimen() {}
+
         public static final int compat_button_inset_horizontal_material = 0x7f05004a;
         public static final int compat_button_inset_vertical_material = 0x7f05004b;
         public static final int compat_button_padding_horizontal_material = 0x7f05004c;
@@ -65,6 +75,8 @@ public final class R {
         public static final int notification_top_pad_large_text = 0x7f050076;
     }
     public static final class drawable {
+        private drawable() {}
+
         public static final int notification_action_background = 0x7f060064;
         public static final int notification_bg = 0x7f060065;
         public static final int notification_bg_low = 0x7f060066;
@@ -79,6 +91,8 @@ public final class R {
         public static final int notify_panel_notification_icon_bg = 0x7f06006f;
     }
     public static final class id {
+        private id() {}
+
         public static final int action_container = 0x7f07000e;
         public static final int action_divider = 0x7f070010;
         public static final int action_image = 0x7f070011;
@@ -108,9 +122,13 @@ public final class R {
         public static final int title = 0x7f070095;
     }
     public static final class integer {
+        private integer() {}
+
         public static final int status_bar_notification_info_maxnum = 0x7f080004;
     }
     public static final class layout {
+        private layout() {}
+
         public static final int notification_action = 0x7f09001f;
         public static final int notification_action_tombstone = 0x7f090020;
         public static final int notification_template_custom_big = 0x7f090027;
@@ -119,9 +137,13 @@ public final class R {
         public static final int notification_template_part_time = 0x7f09002d;
     }
     public static final class string {
+        private string() {}
+
         public static final int status_bar_notification_info_overflow = 0x7f0b0067;
     }
     public static final class style {
+        private style() {}
+
         public static final int TextAppearance_Compat_Notification = 0x7f0c0101;
         public static final int TextAppearance_Compat_Notification_Info = 0x7f0c0102;
         public static final int TextAppearance_Compat_Notification_Line2 = 0x7f0c0104;
@@ -131,6 +153,8 @@ public final class R {
         public static final int Widget_Compat_NotificationActionText = 0x7f0c0173;
     }
     public static final class styleable {
+        private styleable() {}
+
         public static final int[] FontFamily = { 0x7f02008e, 0x7f02008f, 0x7f020090, 0x7f020091, 0x7f020092, 0x7f020093 };
         public static final int FontFamily_fontProviderAuthority = 0;
         public static final int FontFamily_fontProviderCerts = 1;

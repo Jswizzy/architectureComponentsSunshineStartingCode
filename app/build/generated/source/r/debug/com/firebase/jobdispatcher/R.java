@@ -7,4 +7,6 @@
 package com.firebase.jobdispatcher;
 
 public final class R {
+    private R() {}
+
 }

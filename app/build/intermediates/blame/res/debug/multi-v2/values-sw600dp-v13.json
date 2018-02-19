@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/justinsmith/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/atx/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e90a0fbcb664d9d3a12cee74c0e08dd6/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
-                    }
-                },
-                {
-                    "source": "/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/src/main/res/values-sw600dp/dimens.xml",
+                    "source": "/Users/justinsmith/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/src/main/res/values-sw600dp/dimens.xml",
                     "from": {
                         "startLines": "20,22,21",
                         "startColumns": "4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "611,675,735",
                         "endColumns": "63,59,72",
                         "endOffsets": "670,730,803"
+                    }
+                },
+                {
+                    "source": "/Users/justinsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9e187db11c7fc3b0655adfc5959bf885/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
                     }
                 }
             ]

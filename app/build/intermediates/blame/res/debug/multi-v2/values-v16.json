@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/justinsmith/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/atx/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e90a0fbcb664d9d3a12cee74c0e08dd6/res/values-v16/values-v16.xml",
+                    "source": "/Users/justinsmith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9e187db11c7fc3b0655adfc5959bf885/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/atx/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/9fca46638e40bb2cafacdd4af6093b28/res/values-v16/values-v16.xml",
+                    "source": "/Users/justinsmith/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c456e9d43f40dc1d6d94c7df7eae01d1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -33,7 +33,7 @@
                     }
                 },
                 {
-                    "source": "/home/atx/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/src/main/res/values-v16/styles.xml",
+                    "source": "/Users/justinsmith/AndroidStudioProjects/architectureComponentsSunshineStartingCode/app/src/main/res/values-v16/styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",
